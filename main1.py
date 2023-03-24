@@ -99,3 +99,4 @@ while True:
     if exit_answer == "нет":
         break
     print(analytics)
+    
