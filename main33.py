@@ -52,4 +52,5 @@ my_func()
 def int_func():
     word = input("Введите слова")
     return word.title()
+
 print(int_func())
