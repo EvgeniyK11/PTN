@@ -68,4 +68,4 @@ def fibo_gen():
         yield x
         
 for el in fibo_gen():
-    print(el)
+    print
