@@ -94,4 +94,4 @@ def get_statistics():
             json.dump(statistics, json_file)
     except FileNotFoundError:
         return 'Файл не найден.'
-get_statistics()
+get_statistics
