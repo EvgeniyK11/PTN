@@ -112,4 +112,4 @@ print(pen.draw())
 pencil = Pencil('карандашем')
 print(pencil.draw())
 handle = Handle('маркером')
-print(handle.draw())
+print(handle.draw())\
