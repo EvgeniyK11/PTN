@@ -1,5 +1,5 @@
 # 1. Реализовать класс Matrix (матрица). Обеспечить перегрузку конструктора класса....
-class Matrix:
+lass Matrix:
     def __init__(self, my_list):
         self.my_list = my_list
 
@@ -80,4 +80,4 @@ print(cell + cell_2)
 print(cell - cell_2)
 print(cell / cell_2)
 print(cell * cell_2)
-print(cell.make_order(7))
+print(cell.make_order(7)
